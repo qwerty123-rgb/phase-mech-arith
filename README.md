@@ -1,2 +1,1 @@
-# phase-mech-arith
-Algorithmic Phase Transitions in Large Language Models: A Mechanistic Case Study of Arithmetic
+# Algorithmic Phase Transitions in Large Language Models: A Mechanistic Case Study of Arithmetic
